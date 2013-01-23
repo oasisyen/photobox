@@ -30,10 +30,12 @@ Please switch to branch "1.5" and try out the new beta. I've re-wrote a LOT of t
 
 ## settings
 **time** (default: 3000) minimum 1000ms allowed
-The time in miliseconds when autoplaying a gallery. Set to '0' to hide the autoplay button
+
+    The time in miliseconds when autoplaying a gallery. Set to '0' to hide the autoplay button
 
 **autoplay** (default: false)
-should the gallery autoplay on start or not.
+
+    should the gallery autoplay on start or not.
 
 **loop** (Default: 'true')
 
