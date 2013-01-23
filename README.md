@@ -5,6 +5,8 @@ A lightweight CSS3 image gallery that is pretty to look and and easy to use.
 
 ##[Demo page](http://dropthebit.com/demos/photobox/), [Blog post](http://dropthebit.com/500/photobox-css3-image-gallery-jquery-plugin/)
 
+## BETA 1.5
+Please switch to branch "1.5" and try out the new beta. I've re-wrote a LOT of the code, fixing bugs and adding support for autoplay.
 
 ## benefits
 * Both the script & CSS are only 7k each (minified script, not gziped)
